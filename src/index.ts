@@ -87,6 +87,7 @@ program
 							domain: result.domain,
 							favicon: result.favicon,
 							image: result.image,
+							metaTags: result.metaTags,
 							parseTime: result.parseTime,
 							published: result.published,
 							author: result.author,
