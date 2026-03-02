@@ -1,11 +1,10 @@
-# Defuddle CLI
-
-Command line interface for [Defuddle](https://github.com/kepano/defuddle). Extract clean HTML or Markdown from pages.
+> [!IMPORTANT]  
+> Defuddle CLI has moved into the main [Defuddle](https://github.com/kepano/defuddle) repo.
 
 ## Installation
 
 ```bash
-npm install -g defuddle-cli
+npm install -g defuddle
 ```
 
 ## Usage
